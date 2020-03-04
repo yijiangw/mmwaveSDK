@@ -1,0 +1,9 @@
+<map id="DPC_ObjectDetectionRangeHWA_PreStartCfg_t" name="DPC_ObjectDetectionRangeHWA_PreStartCfg_t">
+<area shape="rect" id="node2" href="$struct_d_p_c___object_detection_range_h_w_a__pre_start_cfg__mem_usage__t.html" title="DPC_ObjectDetectionRange\lHWA_preStartCfg_memUsage_t" alt="" coords="701,5,915,47"/>
+<area shape="rect" id="node3" href="$struct_d_p_c___object_detection_range_h_w_a___static_cfg__t.html" title="DPC_ObjectDetectionRange\lHWA_StaticCfg_t" alt="" coords="713,71,903,112"/>
+<area shape="rect" id="node4" href="/home/gtbldadm/nightlybuilds/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_i_f___a_d_c_buf_data__t.html" title="DPIF_ADCBufData_t" alt="" coords="335,78,483,105"/>
+<area shape="rect" id="node5" href="/home/gtbldadm/nightlybuilds/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_i_f___a_d_c_buf_property__t.html" title="DPIF_ADCBufProperty_t" alt="" coords="5,78,175,105"/>
+<area shape="rect" id="node6" href="$struct_d_p_c___object_detection_range_h_w_a___dyn_cfg__t.html" title="DPC_ObjectDetectionRange\lHWA_DynCfg_t" alt="" coords="713,136,903,177"/>
+<area shape="rect" id="node7" href="/home/gtbldadm/nightlybuilds/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_u___range_proc___calib_dc_range_sig_cfg__t.html" title="DPU_RangeProc_CalibDcRange\lSigCfg_t" alt="" coords="301,136,516,177"/>
+<area shape="rect" id="node8" href="$struct_d_p_c___object_detection_range_h_w_a__pre_start_cfg__radar_cube_mem__t.html" title="DPC_ObjectDetectionRange\lHWA_preStartCfg_radarCubeMem_t" alt="" coords="691,201,925,243"/>
+</map>
